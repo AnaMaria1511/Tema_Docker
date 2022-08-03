@@ -1,0 +1,82 @@
+{
+  "name" : "SerbyBank",
+  "cui" : "Cluj2198082820",
+  "exchangePools" : [ {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Euro",
+      "ticker" : "EUR"
+    },
+    "liquidityTwo" : {
+      "value" : 100000000.0,
+      "name" : "Dollar",
+      "ticker" : "USD"
+    }
+  }, {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Dollar",
+      "ticker" : "USD"
+    },
+    "liquidityTwo" : {
+      "value" : 1000000.0,
+      "name" : "Bitcoin",
+      "ticker" : "BTC"
+    }
+  } , {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Dollar",
+      "ticker" : "USD"
+    },
+    "liquidityTwo" : {
+      "value" : 10000000.0,
+      "name" : "Ethereum",
+      "ticker" : "ETH"
+    }
+  }, {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Dollar",
+      "ticker" : "USD"
+    },
+    "liquidityTwo" : {
+      "value" : 10000000.0,
+      "name" : "eGold",
+      "ticker" : "EGLD"
+    }
+  } , {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Euro",
+      "ticker" : "EUR"
+    },
+    "liquidityTwo" : {
+      "value" : 1000000.0,
+      "name" : "Bitcoin",
+      "ticker" : "BTC"
+    }
+  } , {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Dogecoin",
+      "ticker" : "DOGE"
+    },
+    "liquidityTwo" : {
+      "value" : 10000000.0,
+      "name" : "eGold",
+      "ticker" : "EGLD"
+    }
+  } , {
+    "liquidityOne" : {
+      "value" : 100000000.0,
+      "name" : "Ethereum",
+      "ticker" : "ETH"
+    },
+    "liquidityTwo" : {
+      "value" : 10000000.0,
+      "name" : "eGold",
+      "ticker" : "EGLD"
+    }
+  }  ]
+}

@@ -1,0 +1,5 @@
+com\mcserby\playground\javademoplayground\integration\PersistenceLayerIT.class
+com\mcserby\playground\javademoplayground\integration\DataGeneratorIT.class
+com\mcserby\playground\javademoplayground\service\DexTest.class
+com\mcserby\playground\javademoplayground\integration\SwapSimulatorTestIT.class
+com\mcserby\playground\javademoplayground\JavaDemoPlaygroundApplicationTests.class
